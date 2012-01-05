@@ -1,0 +1,14 @@
+{
+  "name": "v6z"
+, "description": "Controller app for v6z services"
+, "version": "0.0.1"
+, "dependencies": {
+    "express": ">= 2.5.4"
+  , "ejs": ">= 0.6.1"
+  , "pg": ">= 0.6.9"
+  , "connect-form": ">= 0.2.1"
+  , "underscore": ">= 1.2.4"
+  , "request": ">= 2.9.3"
+  , "async": ">= 0.1.15"
+  }
+}
